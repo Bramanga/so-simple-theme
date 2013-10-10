@@ -1,16 +1,16 @@
-title:            Site Title
-description:      Describe your website here.
+title:            AmwayBIG
+description:      Amway Business Innovations Group.
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+#url:              http://amwaybig.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Greg Braman
+  avatar:         michael-rose-photo.png
+  email:          bramanga@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -43,7 +43,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Detroit
 future:      true
 pygments:    true
 markdown:    kramdown
